@@ -1,4 +1,4 @@
-# Hi, I'm Wojciech 👋
+# Hi, I'm Wojciech
 
 Hi, I'm Wojciech - a Java Developer focused on backend development.  
 Currently pursuing a Master's degree in Computer Science (Cybersecurity specialization).
@@ -7,7 +7,7 @@ I’m building production-style backend applications and preparing for my first 
 
 ---
 
-## 🚀 Current Focus
+## Current Focus
 
 - Deepening my knowledge of core Java  
 - Building backend projects to expand my technical knowledge
@@ -15,7 +15,7 @@ I’m building production-style backend applications and preparing for my first 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Backend**
 - Java 21
