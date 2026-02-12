@@ -10,9 +10,8 @@ I’m building production-style backend applications and preparing for my first 
 ## 🚀 Current Focus
 
 - Deepening my knowledge of core Java  
-- Building REST APIs with Spring Boot  
+- Building backend projects to expand my technical knowledge
 - Strengthening testing skills with JUnit  
-- Improving application security fundamentals  
 
 ---
 
