@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Wojciech 👋
 
-<!--
-**Buumty/Buumty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Wojciech - a Java Developer focused on backend development.  
+Currently pursuing a Master's degree in Computer Science (Cybersecurity specialization).
 
-Here are some ideas to get you started:
+I’m building production-style backend applications and preparing for my first professional role in software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Current Focus
+
+- Deepening my knowledge of core Java  
+- Building REST APIs with Spring Boot  
+- Strengthening testing skills with JUnit  
+- Improving application security fundamentals  
+
+---
+
+## 🛠 Tech Stack
+
+**Backend**
+- Java 21
+- Spring Framework
+- Spring Boot
+- REST APIs
+
+**Database**
+- PostgreSQL
+- MySQL
+- JPA / Hibernate
+
+**Tools**
+- Docker
+- Linux
+- Maven
+- Git
+- JUnit
