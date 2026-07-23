@@ -9,9 +9,12 @@ I’m building production-style backend applications and preparing for my first 
 
 ## Current Focus
 
-- Deepening my knowledge of core Java  
-- Building backend projects to expand my technical knowledge
-- Strengthening testing skills with JUnit  
+- Participating in the EPAM Java Specialization Program
+- Strengthening my knowledge of core Java, OOP, and modern Java features
+- Developing skills in Spring Framework, JPA/Hibernate, and REST APIs
+- Learning modern software architecture, including microservices, messaging and NoSQL
+- Expanding my knowledge of containerization and cloud technologies
+- Exploring generative AI, prompt engineering, and AI-enabled application development
 
 ---
 
